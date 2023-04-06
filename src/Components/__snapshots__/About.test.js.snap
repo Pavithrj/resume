@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component should print contact details 1`] = `
+<DocumentFragment>
+  <div
+    class="aboutcontaner"
+  >
+    <h3>
+      About
+    </h3>
+    <div>
+      As a Principal Software Engineer with over 9.2 years of experience in Front End Development, I have a proven track record of designing and implementing high-quality, responsive web applications using React, Redux, and Typescript/ JavaScript. My expertise in developing fast and responsive web designs has allowed me to create userfriendly interfaces that improve user engagement and satisfaction. In my most recent role as a Principal Software Engineer, I have played a key role in developing and implementing front-end architecture, optimizing application performance, and mentoring junior developers.
+    </div>
+  </div>
+</DocumentFragment>
+`;

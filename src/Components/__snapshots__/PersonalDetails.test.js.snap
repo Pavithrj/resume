@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PersonalDetails Component should print personal details 1`] = `
+<DocumentFragment>
+  <div
+    class="personalcontainer"
+  >
+    <div
+      class="detail"
+    >
+      Personal details
+    </div>
+    <img
+      alt="cat"
+      class="image"
+      src="cat.jpeg"
+    />
+    <div>
+      Akash Badhe
+    </div>
+    <div>
+      Principal Software Engineer (Front End)
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,18 @@
+.box {
+    border: 1px solid black;
+    width: 157px;
+    height: 20px;
+}
+
+.rating {
+    margin-right: 5px;
+    text-align: right;
+    margin: 0;
+}
+
+.ratebox {
+    border: 1px solid black;
+    width: 159px;
+    height: 20px;
+    background-color: blue;
+}

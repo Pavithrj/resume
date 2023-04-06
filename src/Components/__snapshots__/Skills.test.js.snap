@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component should print contact details 1`] = `
+<DocumentFragment>
+  <div
+    class="skillcontainer"
+  >
+    <div
+      class="skills"
+    >
+      Skills
+    </div>
+    <div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          JavaScript (ES6)
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 90%;"
+          />
+          <div
+            class="rating"
+          >
+            Excellent (4.5/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          ReactJs
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 90%;"
+          />
+          <div
+            class="rating"
+          >
+            Excellent (4.5/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          Redux
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 80%;"
+          />
+          <div
+            class="rating"
+          >
+            Very Good (4/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          C#
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 80%;"
+          />
+          <div
+            class="rating"
+          >
+            Very Good (4/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          NodeJS
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 80%;"
+          />
+          <div
+            class="rating"
+          >
+            Very Good (4/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          .Net Core
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 80%;"
+          />
+          <div
+            class="rating"
+          >
+            Very Good (4/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          HTML
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 100%;"
+          />
+          <div
+            class="rating"
+          >
+            Excellent (5/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          CSS
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 100%;"
+          />
+          <div
+            class="rating"
+          >
+            Excellent (5/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          Angular
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 60%;"
+          />
+          <div
+            class="rating"
+          >
+            Good (3/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          SQL
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 60%;"
+          />
+          <div
+            class="rating"
+          >
+            Good (3/5)
+          </div>
+        </div>
+      </div>
+      <div
+        class="skillstyle"
+      >
+        <br />
+        <div
+          class="skillname"
+        >
+          MongoDB
+        </div>
+        <div
+          class="box"
+        >
+          <div
+            class="ratebox"
+            style="width: 60%;"
+          />
+          <div
+            class="rating"
+          >
+            Good (3/5)
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

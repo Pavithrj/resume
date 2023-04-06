@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component should print contact details 1`] = `
+<DocumentFragment>
+  <div
+    class="educationcontainer"
+  >
+    <h3
+      class="education"
+    >
+      Education
+    </h3>
+    <div>
+      <div
+        class="educationstyle"
+      >
+        <div
+          class="educationdetails"
+        >
+          <div
+            class="educationtimeperiod"
+          >
+            June 2010 - July 2013
+          </div>
+          <div
+            class="stream"
+          >
+            B.E Electronics and Telecommunication
+            <div
+              class="educationplacegrade"
+            >
+              Amaravati University - Maharashtra
+              <br />
+              GPA: 72.44
+            </div>
+          </div>
+        </div>
+        <div
+          class="educationdetails"
+        >
+          <div
+            class="educationtimeperiod"
+          >
+            June 2007 - May 2010
+          </div>
+          <div
+            class="stream"
+          >
+            Diploma Electronics and Telecommunication
+            <div
+              class="educationplacegrade"
+            >
+              Government Polytechnic - Amaravati, Maharashtra
+              <br />
+              GPA: 88.27
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

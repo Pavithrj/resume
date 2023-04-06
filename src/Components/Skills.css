@@ -1,0 +1,22 @@
+.skillcontainer {
+    text-align: center;
+}
+
+.skills {
+    background-color: black;
+    color: white;
+}
+
+.skillstyle {
+    margin-left: 20px;
+}
+
+.skillname {
+    margin-left: 5px;
+    text-align: left;
+}
+
+.rating {
+    margin-right: 5px;
+    text-align: right;
+}

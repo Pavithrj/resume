@@ -1,0 +1,30 @@
+.workhistory {
+    margin-left: 10px;
+}
+
+.workhistorydetails {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.workhistorytimeperiod {
+    width: 100px;
+}
+
+.workdetails {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    width: 400px;
+}
+
+.position {
+    width: 220px;
+    font-weight: bold;
+}
+
+.place {
+    font-weight: lighter;
+    width: 275px;
+}

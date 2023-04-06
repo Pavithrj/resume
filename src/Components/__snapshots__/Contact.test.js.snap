@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component should print contact details 1`] = `
+<DocumentFragment>
+  <div
+    class="contactcontainer"
+  >
+    <div
+      class="contact"
+    >
+      Contact
+    </div>
+    <div>
+      Pune, India 411057
+    </div>
+    <div>
+      +91-7387425098
+    </div>
+    <div>
+      askext@gmail.com
+    </div>
+  </div>
+</DocumentFragment>
+`;

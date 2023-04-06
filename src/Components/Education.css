@@ -1,0 +1,21 @@
+.educationcontainer {
+    margin-left: 10px;
+}
+
+/* .educationstyle {
+    display: flex;
+} */
+
+.educationdetails{display: flex;}
+
+.educationtimeperiod {
+    width: 110px;
+}
+
+.stream {
+    font-weight: bold;
+}
+.educationplacegrade{
+    font-weight: lighter;
+
+}

@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component should print contact details 1`] = `
+<DocumentFragment>
+  <div
+    class="workhistorycontaner"
+  >
+    <h3
+      class="workhistory"
+    >
+      Work History
+    </h3>
+    <div>
+      <div
+        class="workhistorydetails"
+      >
+        <div
+          class="workhistorytimeperiod"
+        >
+          Sep 2020 - Current
+        </div>
+        <div
+          class="workdetails"
+        >
+          <div
+            class="position"
+          >
+            Principal Software Engineer
+            <br />
+            <div
+              class="place"
+            >
+              Mindbody, Pune
+            </div>
+            <br />
+          </div>
+          Implemented a design system with a component library using React JS, Typescript, and Material UI to make the UI consistent across the product.
+        </div>
+      </div>
+      <div
+        class="workhistorydetails"
+      >
+        <div
+          class="workhistorytimeperiod"
+        >
+          Dec 2018 - Sept 2020
+        </div>
+        <div
+          class="workdetails"
+        >
+          <div
+            class="position"
+          >
+            Sr. Software Engineer
+            <br />
+            <div
+              class="place"
+            >
+              Infogain
+            </div>
+            <br />
+          </div>
+          Migrated legacy Backbone JS UI to more maintainable React JS for e-commerce website LampsPlus.
+        </div>
+      </div>
+      <div
+        class="workhistorydetails"
+      >
+        <div
+          class="workhistorytimeperiod"
+        >
+          Nov 2017 - Dec 2018
+        </div>
+        <div
+          class="workdetails"
+        >
+          <div
+            class="position"
+          >
+            Sr. Solution Developer
+            <br />
+            <div
+              class="place"
+            >
+              SpadeWorx Software Services
+            </div>
+            <br />
+          </div>
+          Built a SharePoint app using Vanilla JS with Angular JS to create intranet portals within a few minutes.
+        </div>
+      </div>
+      <div
+        class="workhistorydetails"
+      >
+        <div
+          class="workhistorytimeperiod"
+        >
+          Dec 2013 - Nov 2017
+        </div>
+        <div
+          class="workdetails"
+        >
+          <div
+            class="position"
+          >
+            Associate
+            <br />
+            <div
+              class="place"
+            >
+              Cognizant Technology Solutions, PUNE
+            </div>
+            <br />
+          </div>
+          Built intranet portal for Novartis using React JS and SharePoint for 100K+ employees across the globe.
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

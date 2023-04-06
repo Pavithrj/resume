@@ -1,0 +1,116 @@
+{
+  "personalInfo": {
+    "prifilePic": "cat.jpeg",
+    "firstName": "FirstName",
+    "lastName": "LastName",
+    "designation": "Designation"
+  },
+  "contactDetails": {
+    "address": "Address",
+    "phoneNumber": "Phone Number",
+    "email": "Email"
+  },
+  "skillDetails": [
+    {
+      "name": "Skill 1",
+      "rating": "Excellent (4.5/5)"
+    },
+    {
+      "name": "Skill 2",
+      "rating": "Excellent (4.5/5)"
+    },
+    {
+      "name": "Skill 3",
+      "rating": "Very Good (4/5)"
+    },
+    {
+      "name": "Skill 4",
+      "rating": "Very Good (4/5)"
+    },
+    {
+      "name": "Skill 5",
+      "rating": "Very Good (4/5)"
+    },
+    {
+      "name": "Skill 6",
+      "rating": "Very Good (4/5)"
+    },
+    {
+      "name": "Skill 7",
+      "rating": "Excellent (5/5)"
+    },
+    {
+      "name": "Skill 8",
+      "rating": "Excellent (5/5)"
+    },
+    {
+      "name": "Skill 9",
+      "rating": "Good (3/5)"
+    },
+    {
+      "name": "Skill 10",
+      "rating": "Good (3/5)"
+    }
+  ],
+  "about": {
+    "details": "Description"
+  },
+  "workHistory": [
+    {
+      "timePeriod": "Month Year - Present",
+      "position": "Position",
+      "companyName": "Company Name",
+      "place": "Place",
+      "description": "Details"
+    },
+    {
+      "timePeriod": "Month Year - Month Year",
+      "position": "Position",
+      "companyName": "Company Name",
+      "place": "Place",
+      "description": "Details"
+    },
+    {
+      "timePeriod": "Month Year - Month Year",
+      "position": "Position",
+      "companyName": "Company Name",
+      "place": "Place",
+      "description": "Details"
+    },
+    {
+      "timePeriod": "Month Year - Month Year",
+      "position": "Position",
+      "companyName": "Company Name",
+      "place": "Place",
+      "description": "Details"
+    }
+  ],
+  "education": [
+    {
+      "timePeriod": "Month Year - Month Year",
+      "stream": "Stream",
+      "place": "Place",
+      "grade": "Grade"
+    },
+    {
+      "timePeriod": "Month Year - Month Year",
+      "stream": "Stream",
+      "place": "Place",
+      "grade": "Grade"
+    }
+  ],
+  "certification": [
+    {
+      "timePeriod": "Month Year",
+      "type": "Type"
+    },
+    {
+      "timePeriod": "Month Year",
+      "type": "Type"
+    },
+    {
+      "timePeriod": "Month Year",
+      "type": "Type"
+    }
+  ]
+}

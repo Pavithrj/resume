@@ -1,0 +1,14 @@
+.personalcontainer {
+    text-align: center;
+}
+
+.detail {
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+
+.image {
+    margin-top: 10px;
+    clip-path: circle(100px);
+}

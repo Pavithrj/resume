@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component should print contact details 1`] = `
+<DocumentFragment>
+  <div
+    class="certificationcontainer"
+  >
+    <h3
+      class="certification"
+    >
+      Certifications
+    </h3>
+    <div>
+      <div
+        class="certificationdetails"
+      >
+        Dec 2019 Azure AZ-203 Developing Solutions for Microsoft Azure
+      </div>
+      <div
+        class="certificationdetails"
+      >
+        July 2019 Microsoft Certified: Azure Fundamentals
+      </div>
+      <div
+        class="certificationdetails"
+      >
+        July 2015 Microsoft Certified Professional
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
