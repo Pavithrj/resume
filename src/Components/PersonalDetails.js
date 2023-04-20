@@ -1,17 +1,23 @@
 import './PersonalDetails.css';
 import ProfileContext from './ProfileContext';
-import { useContext } from 'react';
+import { useContext, useEffect, useState } from 'react';
+import jsonData from '../Details.json';
 
 function PersonalDetails() {
+    const [imageData, setImageData] = useState(null);
     const profileData = useContext(ProfileContext);
-    console.log('profileData::', profileData);
     const { personalInfo } = profileData;
-    const { profilepic, firstName, lastName, designation } = personalInfo;
+    const { firstName, lastName, designation } = personalInfo;
+    console.log('imageData::', imageData);
+
+    useEffect(() => {
+        setImageData(jsonData.personalInfo.prifilePic);
+    }, []);
 
     return (
         <div className="personalcontainer">
             <div className="detail">Personal details</div>
-            <img src={profilepic} alt='img' className='image' />
+            <img src={imageData} alt='img' className='image' />
             <div>{firstName} {lastName}</div>
             <div>{designation}</div>
         </div>
